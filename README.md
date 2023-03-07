@@ -1,2 +1,2 @@
 # data_analysis_with_excel
-This is a data analysis task done using Microsoft excel.
+This repository contains some data analysis task I did using Microsoft excel.
